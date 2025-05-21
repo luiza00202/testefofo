@@ -74,7 +74,7 @@ body {
 }
 
 .result-container {
- .result-container {
+
   display: none;
   position: absolute;
   top: 50%;
@@ -88,7 +88,6 @@ body {
   gap: 1rem;
 }
 
-}
 .gif-result {
   border-radius: 10px;
   margin-bottom: 2rem;
