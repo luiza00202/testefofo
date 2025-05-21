@@ -89,8 +89,10 @@ body {
 }
 
 .gif-result {
-  border-radius: 10px;
+ border-radius: 10px;
   margin-bottom: 2rem;
+  max-width: 90%;
+  width: 300px;
 }
 .result-container h2 {
   font-size: 3.2rem;
